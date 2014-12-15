@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCTI", "CCTI\CCTI.csproj", "{5BBB1FF5-FA1A-4268-AFA6-8C652EB09B2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringComparison", "StringComparison\StringComparison.csproj", "{DCC9D01B-FAC9-47DF-99E1-D9E5B5FE7A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{762AC2C3-515D-41E6-AF39-41002E3D08F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BBB1FF5-FA1A-4268-AFA6-8C652EB09B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BBB1FF5-FA1A-4268-AFA6-8C652EB09B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BBB1FF5-FA1A-4268-AFA6-8C652EB09B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BBB1FF5-FA1A-4268-AFA6-8C652EB09B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{762AC2C3-515D-41E6-AF39-41002E3D08F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{762AC2C3-515D-41E6-AF39-41002E3D08F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{762AC2C3-515D-41E6-AF39-41002E3D08F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{762AC2C3-515D-41E6-AF39-41002E3D08F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC9D01B-FAC9-47DF-99E1-D9E5B5FE7A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC9D01B-FAC9-47DF-99E1-D9E5B5FE7A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC9D01B-FAC9-47DF-99E1-D9E5B5FE7A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC9D01B-FAC9-47DF-99E1-D9E5B5FE7A07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
